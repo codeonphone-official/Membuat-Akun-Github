@@ -43,7 +43,7 @@ GitHub adalah layanan hos web bersama untuk membuat sebuah projek program atau 
    ![Screenshot_20220717-193816_Via](Screenshot_20220717-193816_Via.png)
 - Tadaa!! kamu berhasil membuat akun github, setelah itu kami bisa mulai membuat projek mandiri ataupun bergabung bersama tim untuk membuat projek bersama, sabar yaa materi nya akan di lanjut nanti. cukup sampe sini dulu.
    
-   
+   ![Screenshot_20220717-193845_Via](/storage/emulated/0/Pictures/Screenshots/Screenshot_20220717-193845_Via.png)
 
 
 Selamat belajar :)
